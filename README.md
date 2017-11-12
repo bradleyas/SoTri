@@ -1,1 +1,1 @@
-# SoTri
+# SoTri is the best thing ever

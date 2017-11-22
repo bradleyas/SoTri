@@ -1,10 +1,12 @@
 ### NetBeans ###
-nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+build.xml
+manifest.mf
 
 # general gitignore rules copied from https://gist.github.com/octocat/9257657 #
 

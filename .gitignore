@@ -1,3 +1,11 @@
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
 # general gitignore rules copied from https://gist.github.com/octocat/9257657 #
 
 # Compiled source #
